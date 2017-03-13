@@ -1,1 +1,1 @@
-import ReactCalculator from './src/Calculator';
+import Calculator from './src/Calculator';
